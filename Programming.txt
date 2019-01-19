@@ -11,6 +11,7 @@ Programming Languages
 9. JavaScript
 10. Go
 
+
 Data Science
 1. Python Basics
 2. Important Libraries : Pandas, Matplotlib, Numpy
@@ -18,3 +19,8 @@ Data Science
 4. Inferential Statistics
 5. Hypothesis Testing
 6. Exploratory Data Analysis
+
+Done with List 
+
+Happy Leaning :)
+
