@@ -5,4 +5,8 @@ Programming Languages
 3. Python
 4. Julia
 5. R
-
+6. HTML
+7. Java
+8. PHP
+9. JavaScript
+10. Go
